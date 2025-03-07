@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from numpy.fft import fft, ifft, fftshift
 from scipy.signal.windows import hann, flattop
 
-# 1. Parameters from your variant
+# 1. Parameters from variant
 f1, f2, f3 = 500, 500.25, 499.75  
 A_max = 3  
 fs = 800  
