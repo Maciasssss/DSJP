@@ -1,8 +1,6 @@
 # Digital Signal Processing Laboratory Exercises
 
-![DSP Banner](https://via.placeholder.com/800x200.png?text=Digital+Signal+Processing+Lab)
-
-Welcome to the repository for my Digital Signal Processing (DSP) laboratory exercises completed as part of the **["Analog and Digital Electronic Circuits"]** course at the **[University of Bielsko-Biala]**.
+Welcome to the repository for my Digital Signal Processing (DSP) laboratory exercises completed as part of the **"Analog and Digital Electronic Circuits"** course at the **University of Bielsko-Biala**.
 
 This repository contains Python implementations and corresponding reports for a series of laboratory assignments covering fundamental and advanced DSP concepts.
 
@@ -52,8 +50,8 @@ This collection of labs explores a diverse range of topics within Digital Signal
 
 ## 👤 Author
 
-- **[Maciej Kos]**
-- **[maciek_k112@wp.pl]**
+- **Maciej**
+- **maciek_k112@wp.pl**
 
 ## 🙏 Acknowledgements
 
